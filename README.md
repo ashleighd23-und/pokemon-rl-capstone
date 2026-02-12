@@ -240,3 +240,38 @@ V1 establishes:
 - Modular agent training and evaluation framework
 
 This foundation enables systematic progression from classical DP to deep multi-agent reinforcement learning and game-theoretic analysis.
+
+
+---
+
+# References
+
+[1] R. S. Sutton and A. G. Barto, *Reinforcement Learning: An Introduction*, 2nd ed. Cambridge, MA, USA: MIT Press, 2018.
+
+[2] M. L. Puterman, *Markov Decision Processes: Discrete Stochastic Dynamic Programming*. New York, NY, USA: John Wiley & Sons, 1994.
+
+[3] M. L. Littman, “Markov games as a framework for multi-agent reinforcement learning,” in *Proceedings of the 11th International Conference on Machine Learning (ICML)*, 1994, pp. 157–163.
+
+[4] J. Heinrich and D. Silver, “Deep reinforcement learning from self-play in imperfect-information games,” *arXiv preprint arXiv:1603.01121*, 2016.
+
+[5] DrivenData, “Cookiecutter Data Science Template (v1),” [Online]. Available: https://github.com/drivendataorg/cookiecutter-data-science
+
+
+---
+
+# References
+
+[1] R. S. Sutton and A. G. Barto, *Reinforcement Learning: An Introduction*, 2nd ed. Cambridge, MA, USA: MIT Press, 2018.
+
+[2] M. L. Puterman, *Markov Decision Processes: Discrete Stochastic Dynamic Programming*. New York, NY, USA: John Wiley & Sons, 1994.
+
+[3] M. L. Littman, “Markov games as a framework for multi-agent reinforcement learning,” in *Proceedings of the 11th International Conference on Machine Learning (ICML)*, 1994, pp. 157–163.
+
+[4] J. Heinrich and D. Silver, “Deep reinforcement learning from self-play in imperfect-information games,” *arXiv preprint arXiv:1603.01121*, 2016.
+
+[5] DrivenData, “Cookiecutter Data Science Template (v1),” [Online]. Available: https://github.com/drivendataorg/cookiecutter-data-science
+
+
+Important note: Citation management will be migrated to Zotero in future project versions.
+
+
