@@ -1,0 +1,9 @@
+name: pokemon_rl_capstone
+channels:
+  - conda-forge
+dependencies:
+  - python=3.10
+  - numpy
+  - matplotlib
+  - tqdm
+  - pytest
