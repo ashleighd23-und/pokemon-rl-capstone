@@ -259,6 +259,6 @@ This foundation enables systematic progression from classical DP to deep multi-a
 Important Note: Citations management will be migrated to Zotero for V2 of the project.
 
 ---
-##Acknowledgments
+## Acknowledgments
 
 Portions of repository structuring, documentation drafting, and debugging support were assisted using OpenAI’s ChatGPT (GPT-5 series). All algorithmic implementations, modeling decisions, and validation were independently implemented by the author.
